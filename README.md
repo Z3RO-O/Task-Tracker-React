@@ -1,4 +1,7 @@
-#Getting Started with Create React App
+# Task-Tracker-App
+This app has basic functionalities to Add, Remove, Set-Reminder and Toggle-Reminder with JSON-Server to Store, Update and Delete the Tasks.
+ 
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
